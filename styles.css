@@ -94,7 +94,7 @@ nav .menu a{
     display: flex;
     justify-content: center;
 }
-.secondery-btn{
+.secondary-btn{
     background-color: #ffffff;
     border: none;
     padding: 8px 12px;
@@ -229,7 +229,7 @@ svg{
 .list-item{
     list-style-type: none;
 }
-.inlinee{
+.inlined{
     display: flex;
     /* justify-content: center; */
     align-items: center;
